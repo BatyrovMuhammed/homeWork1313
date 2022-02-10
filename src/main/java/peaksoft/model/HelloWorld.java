@@ -1,4 +1,4 @@
-package peaksoft;
+package peaksoft.model;
 
 public class HelloWorld {
 
